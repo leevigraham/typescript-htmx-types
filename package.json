@@ -1,0 +1,17 @@
+{
+  "name": "htmx-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/@types/index.js",
+  "scripts": {
+    "build" : "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "htmx.org": "^1.4.0"
+  }
+}
