@@ -1,5 +1,6 @@
 # typescript-htmx-types
 
-!! Do not use !!
+WIP - Typescript Types for HTMX
 
-This is a test repo for learning typescript types and how to add definitions for third party libraries.
+* Type Definition: ./src/%40types/htmx.org/index.d.ts
+* Basic Test Page: ./src/app.ts
